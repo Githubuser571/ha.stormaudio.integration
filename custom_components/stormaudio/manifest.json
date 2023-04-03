@@ -1,0 +1,13 @@
+{
+    "domain": "stormaudio",
+    "name": "Storm Audio ISP MK2",
+    "documentation": "https://www.stormaudio.com/wp-content/uploads/2021/12/Stormaudio_isp_tcpip_api_protocol_fw4.3r0_v20.pdf",
+    "dependencies": [],
+    "codeowners": [],
+    "requirements": [],
+    "version": "1.0.0",
+    "issue_tracker": "https://github.com/<your_username>/<your_repository>/issues",
+    "quality_scale": "production",
+    "iot_class": "local_polling",
+    "config_flow": false
+}
